@@ -1,4 +1,4 @@
 *.jpg
 *.jpeg
 *.png
-converted_images/
+output_images/
